@@ -1,0 +1,1 @@
+.ui-coin{--size:var(--coin-size,32px);border-radius:var(--coin-border-radius,6px);display:inline-block;height:var(--size);outline:1px solid var(--coin-border-color,hsla(0,0%,100%,.24));outline-offset:-1px;position:relative;width:var(--size)}.ui-coin.is-fallback{overflow:hidden}.ui-coin.is-empty{visibility:hidden}.ui-coin.is-circle{border-radius:50%}

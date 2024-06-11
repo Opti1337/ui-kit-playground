@@ -1,0 +1,1 @@
+import{n as s,o as e,c as r,z as n,A as o}from"./entry.51a61baf.js";const u={__name:"separator",setup(t){const a=s("ui-dropdown-separator");return(c,l)=>(e(),r("li",{class:n(o(a).b())},null,2))}};export{u as default};
